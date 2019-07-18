@@ -15,7 +15,10 @@ public class PRACTICE {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       int a=5,b=4;
+       int c= a+b;
+       System.out.println(c);
+       
     }
     
 }
